@@ -1,6 +1,10 @@
 
 算法可视化项目
 
+演示地址：https://algorithm-visualizer.org/branch-and-bound/binary-search-tree
+
+说明：https://maimai.cn/article/detail?fid=1279451902&efid=Ts6xtJN_tuu7Frq8SZYEpQ&use_rn=1&from=timeline&isappinstalled=0
+
 # Algorithm Visualizer
 
 > Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
